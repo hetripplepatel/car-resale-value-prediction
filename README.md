@@ -1,4 +1,4 @@
-Car Resale Value 
+Car Resale
 
 [![Already deployed version](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/hr.svg)](https://price-predictions.herokuapp.com/)
 <p align="center"> 
